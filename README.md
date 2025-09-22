@@ -9,23 +9,22 @@ Thanks to everyone who had been hosting the builds so we could get them.
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	Download : [1](https://d615ebd8b668.ngrok-free.app/0nlineTest0.6.5.zip) |
-| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download : [1](https://gofile.io/d/DnSgff) Only usable on a jailbroken PS4, emulator doesnt work either! |
-| OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : [1](https://www.dropbox.com/scl/fi/i347gsjhgu722qn1zb1jy/OT11-Xbox.zip?rlkey=428b6ey77hnquhwqnkd0b60q2&st=46ad1373&dl=0) ; PC Extract Download : [1](https://www.dropbox.com/scl/fi/4qxm120b8rljj4vuin9jq/OT11Extract.7z?rlkey=c5j9twp7gfxn6s8v54sz3g4uc&st=jyjmn0pm&dl=0)
-
+| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download : isnt saved yet |
+| OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : isnt saved yet ; PC Extract Download : isnt saved yet
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://gofile.io/d/IV7BUC) ; [2](https://store-eu-par-1.gofile.io/download/web/a5a3850d-9e08-4cd2-9d3f-923f4a547607/%2B%2BFortnite%2BCert-CL-3532353.7z) ; [3](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [4](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
-| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://gofile.io/d/9HYfIm) ; [2](https://store-eu-par-3.gofile.io/download/web/9790ea12-d3a2-4fb4-b354-d6edceb0cc9c/1.2.rar) TEMPORARY (Download before it gets taken down!) |
+| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.2.zip) |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        Download : [1](https://public.simplyblk.xyz/1.7.2.zip) ; [2](https://builds.rebootfn.org/1.7.2.zip) ; [3](https://galaxiafn.co.uk/1.7.2.zip) |	
-| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	Download : [1](https://public.simplyblk.xyz/1.8.rar) ; [2](https://builds.rebootfn.org/1.8.rar) |		
-| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | Download : [1](https://public.simplyblk.xyz/1.8.1.rar) ; [2](https://builds.rebootfn.org/1.8.1.rar) |		
-| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		Download : [1](https://public.simplyblk.xyz/1.8.2.rar) ; [2](https://builds.rebootfn.org/1.8.2.rar) |		
-| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		Download : [1](https://public.simplyblk.xyz/1.9.rar) ; [2](https://builds.rebootfn.org/1.9.rar) |		
+| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        Download : [1](https://d615ebd8b668.ngrok-free.app/1.7.2.zip) |	
+| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	Download : [1](https://d615ebd8b668.ngrok-free.app/1.8.rar) |		
+| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | Download : [1](https://d615ebd8b668.ngrok-free.app/1.8.1.rar) |		
+| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.8.2.rar) |		
+| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.9.rar) |		
 | 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		Download : [1](https://public.simplyblk.xyz/1.9.1.rar) ; [2](https://builds.rebootfn.org/1.9.1.rar)  |		
 | 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		Download : [1](https://public.simplyblk.xyz/1.10.rar) ; [2](https://builds.rebootfn.org/1.10.rar) |		
 
