@@ -1,6 +1,9 @@
 # Fn-builds
 # Welcome to Dimiraku's and ByZN's repository for Fortnite Versions !
 # All links are provided by us.
+These were all the builds me and Byzn were able to find and save, we are aware that there are more but we couldnt get them, if you'd like to help us get more builds contant either one of us on discord: dimiraku, wallonia.
+
+# If you use my links please make sure to credit me!
 Thanks to everyone who had been hosting the builds so we could get them.
 
 # Downloads
@@ -14,7 +17,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://gofile.io/d/IV7BUC) ; [2](https://store-eu-par-1.gofile.io/download/web/a5a3850d-9e08-4cd2-9d3f-923f4a547607/%2B%2BFortnite%2BCert-CL-3532353.7z) ; [3](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [4](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://d615ebd8b668.ngrok-free.app/++Fortnite+Cert-CL-3532353.7z) |
 | 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.2.zip) |
 
 # Season 0 & 1
@@ -25,36 +28,36 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | Download : [1](https://d615ebd8b668.ngrok-free.app/1.8.1.rar) |		
 | 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.8.2.rar) |		
 | 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.9.rar) |		
-| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		Download : [1](https://public.simplyblk.xyz/1.9.1.rar) ; [2](https://builds.rebootfn.org/1.9.1.rar)  |		
-| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		Download : [1](https://public.simplyblk.xyz/1.10.rar) ; [2](https://builds.rebootfn.org/1.10.rar) |		
+| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.9.1.rar)  |		
+| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/1.10.rar) |		
 
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- | 
-| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	Download : [1](https://public.simplyblk.xyz/1.11.zip) ; [2](https://builds.rebootfn.org/1.11.zip) ; [3](https://galaxiafn.co.uk/1.11.zip) |		N/A |
-| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	Download : [1](https://public.simplyblk.xyz/2.1.0.zip) ; [2](https://builds.rebootfn.org/2.1.0.zip) |	
-| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		 Download : [1](https://public.simplyblk.xyz/2.2.0.rar) ; [2](https://builds.rebootfn.org/2.2.0.rar) |	
-| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 Download : [1](https://public.simplyblk.xyz/2.3.rar) ; [2](https://builds.rebootfn.org/2.3.rar) |	
-| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 Download : [1](https://public.simplyblk.xyz/2.4.0.zip) ; [2](https://builds.rebootfn.org/2.4.0.zip) ; [3](https://galaxiafn.co.uk/2.4.0.zip) |	
-| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  Download : [1](https://public.simplyblk.xyz/2.4.2.zip) ; [2](https://builds.rebootfn.org/2.4.2.zip)
-| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	        Download : [1](https://public.simplyblk.xyz/2.5.0.rar) ; [2](https://builds.rebootfn.org/2.5.0.rar) |		
+| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	Download : [1](https://d615ebd8b668.ngrok-free.app/1.11.zip) |		N/A |
+| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	Download : [1](https://d615ebd8b668.ngrok-free.app/2.1.0.zip) |	
+| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		 Download : isnt saved yet |	
+| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 Download : [1](https://d615ebd8b668.ngrok-free.app/2.3.rar) |	
+| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 Download : [1](https://d615ebd8b668.ngrok-free.app/2.4.0.zip) |	
+| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  Download : [1]()
+| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	    Download : [1](https://d615ebd8b668.ngrok-free.app/2.5.0.rar) |		
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	Download : [1](https://public.simplyblk.xyz/3.0.zip) ; [2](https://builds.rebootfn.org/3.0.zip) ; [3](https://galaxiafn.co.uk/3.0.zip) |
-| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	 Download : [1](https://public.simplyblk.xyz/3.1.rar) ; [2](https://builds.rebootfn.org/3.1.rar) |	
-| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		 Download : [1](https://public.simplyblk.xyz/3.1.1.zip) ; [2](https://builds.rebootfn.org/3.1.1.zip) |
-| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 Download : [1](https://public.simplyblk.xyz/3.2.zip) ; [2](https://builds.rebootfn.org/3.2.zip) |		
-| 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  Download : [1](https://public.simplyblk.xyz/3.3.rar) ; [2](https://builds.rebootfn.org/3.3.rar) |		
-| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 Download : [1](https://public.simplyblk.xyz/3.5.rar) ; [2](https://builds.rebootfn.org/3.5.rar) ; [3](https://galaxiafn.co.uk/3.5.zip) |	
-| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 Download : [1](https://builds.eclipsemp.org/3.6.zip) ; [2](https://builds.rebootfn.org/3.6.zip) |		
+| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	Download : [1](https://d615ebd8b668.ngrok-free.app/3.0.zip) |
+| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	 Download : [1](https://d615ebd8b668.ngrok-free.app/3.1.rar) |	
+| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		 Download : [1](https://d615ebd8b668.ngrok-free.app/3.1.1.zip) |
+| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 Download : [1](https://d615ebd8b668.ngrok-free.app/3.2.zip) |		
+| 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  Download : [1](https://d615ebd8b668.ngrok-free.app/3.3.rar) |		
+| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 Download : [1](https://d615ebd8b668.ngrok-free.app/3.5.zip) |	
+| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 Download : [1](https://d615ebd8b668.ngrok-free.app/3.6.zip) |		
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://public.simplyblk.xyz/4.0.zip) ; [2](https://builds.rebootfn.org/4.0.zip) |		
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Download : [1](https://gofile.io/d/PNuLSQ) |	
+| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/4.0.zip) |		
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		Download : [1](https://d615ebd8b668.ngrok-free.app/4.1.zip) |	
 | 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 Download : [1](https://public.simplyblk.xyz/4.2.zip) ; [2](https://drive.google.com/file/d/1kJQaxP-t7tLfo0adOaM-xdnu97yIFKRm/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.2.zip) ; [4](https://galaxiafn.co.uk/4.2.zip)|		
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           Download : [1](https://public.simplyblk.xyz/4.4.rar) ; [2](https://drive.google.com/file/d/17Cwi48TCOy0LdHVmpYxLM85asd5bwthF/view?usp=sharing) ; [3](https://builds.rebootfn.org/4.4.rar) |		
 | 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : [1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view) ; [2](https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view?usp=sharing) |	
