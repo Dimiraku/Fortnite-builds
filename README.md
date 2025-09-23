@@ -11,7 +11,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Online Tests
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	Download : [1](https://d615ebd8b668.ngrok-free.app/0nlineTest0.6.5.zip) |
+| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	[Download](https://d615ebd8b668.ngrok-free.app/0nlineTest0.6.5.zip) |
 | OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download : isnt saved yet |
 | OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : isnt saved yet ; PC Extract Download : isnt saved yet
 # Pre-BattleRoyale
