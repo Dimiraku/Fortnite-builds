@@ -3,6 +3,8 @@
 # All links are provided by us.
 These were all the builds me and Byzn were able to find and save, we are aware that there are more but we couldnt get them, if you'd like to help us get more builds contant either one of us on discord: dimiraku, wallonia.
 
+[EVENT BUILDS](#EVENT BUILDS)
+
 # If you use my links please make sure to credit me!
 Thanks to everyone who had been hosting the builds so we could get them.
 
@@ -306,3 +308,51 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | Download : [1](https://builds.fn-builds.net/28.01-CL-30313795.7z)  (BUGGED DO NOT DOWNLOAD) ! 
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.10-CL-30676362.7z)  (BUGGED DO NOT DOWNLOAD) ! 
 | 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.20-CL-31286935.7z)
+
+
+### EVENT BUILDS
+v3.6 - 16.2 GB | It's raining meteors | Play using Rift | Play using Reboot
+
+v4.5 - 23,0 GB | Blast Off┃ Play using Rift | Play using REboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
+
+v5.30 - 26,2 GB | Cube Spawning┃ Play using REboot | Play using Carbon
+
+v5.41 - 26,7 GB | Cube Sinking┃ Play using Rift | Play using Reboot | Play using Carbon
+
+v6.21 - 25,1 GB | Butterfly┃ Play using Rift | Play using Carbon | Play using Reboot
+
+v6.31 - 33,6 GB   | Season 7 Lead-Up | Play using Carbon
+
+v7.10 - 37,1 GB   | New Years Event (2019) | Play using Carbon
+
+v7.20 - 31,7 GB | Ice King┃ Play using Rift | Play using Reboot | Play using Carbon
+
+v7.30 - 40,4 GB | Marshmello| Play ussing Rift | Play using Reboot | Play using Carbon (only Carbon has music working!)
+
+v8.51 - 47,0 GB | Unvaulting┃ Play using Rift | Play using Reboot | Play using Carbonv9.40 / v9.41 - 55,1 GB | The Final Showdown┃ Play using Rift, Carbon or Reboot
+
+v10.40 - 60,8 GB | The End┃ Play ussing Rift | Play using Reboot | Play using Carbon
+
+v11.30 - 74,2 GB | Star Wars┃ Play ussing Rift | Play using Reboot | Play using Carbon
+
+v12.41 - 83,3 GB | Travis Scott┃ Play ussing Rift | Play using Reboot | Play using Carbon
+
+v12.61 - 85,1 GB | Play ussing Rift | Play using Reboot | Play using Carbon
+
+v14.60 - 33,34 GB | The Devourer of Worlds┃ Play ussing Rift | Play using Reboot | Play using Carbon
+
+v15.10 - 19,7 GB  | New Years Event (2021) ┃ Play using Carbon
+
+v16.50 - 38,0 GB | Zero Crisis┃ Play using Carbon
+
+v17.30 - 41,3 GB | Rift Tour┃ Carbon soon
+
+v17.50 - 41,7 GB | Operation: Sky Fire ┃ Carbon soon
+
+v18.40 - 43,1 GB | Chapter 2 Finale┃ Play using Carbon
+
+v20.40 - 37,9 GB | Collision / Collider Pulse┃ Play using Carbon
+
+v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+
+v27.11 - 28 GB | The Big Bang | Play using Carbon
