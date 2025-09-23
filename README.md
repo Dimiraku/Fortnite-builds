@@ -14,7 +14,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	[Download](https://d615ebd8b668.ngrok-free.app/0nlineTest0.6.5.zip) |
-| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | Download : isnt saved yet |
+| OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | isnt saved yet |
 | OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : isnt saved yet ; PC Extract Download : isnt saved yet
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
@@ -36,9 +36,9 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- | 
-| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	[Download](https://d615ebd8b668.ngrok-free.app/1.11.zip) |		N/A |
+| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	[Download](https://d615ebd8b668.ngrok-free.app/1.11.zip) |
 | 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	[Download](https://d615ebd8b668.ngrok-free.app/2.1.0.zip) |	
-| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		 Download : isnt saved yet |	
+| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		  isnt saved yet |	
 | 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 [Download](https://d615ebd8b668.ngrok-free.app/2.3.rar) |	
 | 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 [Download](https://d615ebd8b668.ngrok-free.app/2.4.0.zip) |	
 | 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  [Download](https://d615ebd8b668.ngrok-free.app/2.4.2.zip)
@@ -62,7 +62,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		[Download](https://d615ebd8b668.ngrok-free.app/4.1.zip) |	
 | 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/4.2.zip)|		
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           [Download](https://d615ebd8b668.ngrok-free.app/4.4.rar) |		
-| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |          Download : isnt saved yet |	
+| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |           isnt saved yet |	
 | 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		 [Download](https://d615ebd8b668.ngrok-free.app/4.5.zip) |	
 | 4.5-CL-4166199          	| 3rd July 2018     	 | UE4.20     	    |		 [Download](https://d615ebd8b668.ngrok-free.app/4.5-4166199.rar) |
 
@@ -147,26 +147,26 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 11.20-CL-10297577 | 20th November 2019 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.20-CL-10297577.7z) |
 | 11.21-CL-10481509 | 4th December 2019 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.21-CL-10481509.7z) |
 | 11.30-CL-?	                 | 12th December 2019        	    | UE4.24                 | [Download](https://d615ebd8b668.ngrok-free.app/11.30.7z) |
-| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | [Download]() |
+| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | [Download](https://d615ebd8b668.ngrok-free.app/11.31.rar) |
 | 11.40-CL-11039906 | 15th January 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.40-CL-11039906.7z) |
 | 11.50-CL-10899158 | 5th February 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.50.7z) |
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 12.00-CL-11586896	                | 20th February 2020         	 | UE4.24            	    |	[Download](https://d615ebd8b668.ngrok-free.app/12.00-CL-11586896.7z) |
-| 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |  [Download]() |
-| 12.20-CL-N/A | 17th March 2020 | UE4.24 | [Download]() |
-| 12.21-CL-N/A	                | 24th March 2020        	 | UE4.24            	    |		[Download]() |
-| 12.40-CL-N/A | 15th April 2020 | UE4.24 | [Download]() |
+| 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |  [Download](https://d615ebd8b668.ngrok-free.app/12.10.zip) |
+| 12.20-CL-N/A | 17th March 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/12.20.rar) |
+| 12.21-CL-N/A	                | 24th March 2020        	 | UE4.24            	    |		[Download](https://d615ebd8b668.ngrok-free.app/12.21.zip) |
+| 12.40-CL-N/A | 15th April 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/12.40.rar) |
 | 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/12.41-CL-12905909-Windows.zip) |
-| 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		[Download]()  |	
+| 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		[Download](https://d615ebd8b668.ngrok-free.app/12.50.zip)  |	
 | 12.60-CL-13477524 | 20th May 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/12.60-CL-13477524.7z) |
 | 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 [Download](https://d615ebd8b668.ngrok-free.app/12.61.zip) |		
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 13.00-CL-1364927	                | 17th June 2020        	 | UE4.25            	    | [Download]() |	
+| 13.00-CL-1364927	                | 17th June 2020        	 | UE4.25            	    | [Download](https://d615ebd8b668.ngrok-free.app/13.00.rar) |	
 | 13.20-CL-N/A | 30th June 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/13.20-CL-13777676.rar) |
 | 13.30-CL-N/A | 21st July 2020 | UE4.25 | [Download]() |
 | 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		[Download]]() | 	
@@ -203,129 +203,130 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 17.00-CL-16593740 | 8th June 2021  | UE4.26.1 | Download : [1](https://store3.gofile.io/download/web/0695490b-3190-4160-83d1-96cc77e6dc37/17.00-CL-16593740.rar)
-| 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/17.10-CL-16745144.rar) ; [2](https://download.fn-archive.com/FortniteClient-17.10-CL-16745144.7z) |
-| 17.20-CL-16868155 | 20th July 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.20-CL-16868155.7z) Recently Added !
-| 17.21-CL-16967001 | 27th July 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.21-CL-16967001.7z) Recently Added ! 
-| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		Download : [1](https://cdn.fortmp.dev/17.30.zip) Updated! |	
-| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | Download : [1](https://download.fn-archive.com/FortniteClient-17.40-CL-17269705.7z) UPDATED | 
-| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 Download : [1](https://public.simplyblk.xyz/17.50.zip) ; [2](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) ; [3](https://gofile.io/d/k51GEs) (2 and 3 are temporary) |	|
+| 17.00-CL-16593740 | 8th June 2021  | UE4.26.1 | [Download]() |
+| 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.10-CL-16745144.7z) |
+| 17.20-CL-16868155 | 20th July 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.20-CL-16868155.7z) |
+| 17.21-CL-16967001 | 27th July 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.21-CL-16967001.7z) | 
+| 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		[Download](https://d615ebd8b668.ngrok-free.app/17.30.zip) |	
+| 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.40-CL-17269705.7z) | 
+| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 [Download]()	|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.00-CL-17468642.7z)  |		
-| 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.10-CL-17661844.7z) |			
-| 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.20-CL-17792290.7z) ; [2](https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z) UPDATED ! |
-| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	Download : [1](https://builds.fn-builds.net/18.21-CL-17811397.7z) ; [2](https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z) UPDATED ! |		
-| 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | Download : [1](https://builds.fn-builds.net/18.30-CL-17882303.7z) |
-| 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	Download : [1](https://public.simplyblk.xyz/18.40.zip) |		
+| 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	[Download]()  |		
+| 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/18.10-CL-17661844.7z) |			
+| 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/18.20-CL-17792290.7z) |
+| 18.20-CL-17745267 | 12th October 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/18.20-CL-17745267.zip) |
+| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	[Download]() |
+| 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | [Download]() |
+| 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/18.40-CL-18163738-Windows.zip) |		
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 19.00-CL-18049531 | 5th December 2021 | UE5.0 | Download : [1](https://archive.org/details/fortnite-19.01.7z) |
-| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	Download : [1](https://r2.ploosh.dev/19.01.zip) |	
-| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 Download : [1](https://public.simplyblk.xyz/19.10.rar) ; [2](https://builds.fn-builds.net/19.10.rar) |
-| 19.20-CL-18775446 | 1st February 2022 | UE5.0 | Download : [1](https://builds.fn-builds.net/19.20-CL-18775446.7z)
-| 19.30-CL-? | 14th February 2022 | UE5.0 | Link down, dm @wallonia on discord if you got a link 
-| 19.40-CL-19215531 | 1st March 2022 | UE5.0 | Download : [1](https://gofile.io/d/QDahzx) ; [2](https://store9.gofile.io/download/web/552ad80b-a0b4-4561-9cd4-efc67154224d/19.40-CL-19215531.7z) TEMPORARY (Download before it gets taken down!)
+| 19.00-CL-18049531 | 5th December 2021 | UE5.0 | [Download]() |
+| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Download]() |	
+| 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Download]() |
+| 19.20-CL-18775446 | 1st February 2022 | UE5.0 | [Download]()
+| 19.30-CL-? | 14th February 2022 | UE5.0 | [Download]() 
+| 19.40-CL-19215531 | 1st March 2022 | UE5.0 | [Download](https://d615ebd8b668.ngrok-free.app/19.40.7z) |
 
 # Season 20
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		   
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 20.40-CL-20244966	                | 17th May 2022        	 | UE5.1           	    |	 Download : [1](https://public.simplyblk.xyz/20.40.zip)  ; [2](https://builds.fn-builds.net/20.40-CL-20244966.7z) |		
+| 20.40-CL-20244966	                | 17th May 2022        	 | UE5.1           	    |	 [Download]() |		
 
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 21.00-CL-20463113 | 5th June 2022 | UE5.1 | Download : [1](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view) ; [2](https://cdn.solarisfn.org/21.00.zip) ; [3](https://r2.ploosh.dev/21.00.zip) ; [4](https://builds.fn-builds.net/21.00-CL-20463113.7z)
-| 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | Download : [1](https://gofile.io/d/4WZtao) TEMPORARY (Download before it gets taken down!) | 	
-| 21.20-CL-21035704 | 6th July 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.20-CL-21035704.7z) |
-| 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.30-CL-21155462.7z) |
-| 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  Download : [1](https://builds.fn-builds.net/21.40-CL-21407327.7z) |
-| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  Download : [1](https://gofile.io/d/L2OT9k) TEMPORARY (Download before it gets taken down!) |
-| 21.51-CL-21735703 | 7th September 2022 | UE5.1 | Download : [1](https://builds.fn-builds.net/21.51-CL-21735703.7z)
+| 21.00-CL-20463113 | 5th June 2022 | UE5.1 | [Download]() |
+| 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | [Download]() | 	
+| 21.20-CL-21035704 | 6th July 2022 | UE5.1 |  [Download]() |
+| 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  [Download]() |
+| 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  [Download]() |
+| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  [Download]() |
+| 21.51-CL-21735703 | 7th September 2022 | UE5.1 | [Download]() |
 
 # Season 22
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 22.00-CL-22149829 | 18th September 2022 | N/A | Download : [1](https://builds.fn-builds.net/22.00-CL-22149829.7z)
-| 22.10-CL-22429549 | 4th October 2022 | N/A | Download : [1](https://builds.fn-builds.net/22.10-CL-22429549.7z)
-| 22.20-CL-22600409 | 18th October 2022 | N/A | Download : [1](https://builds.fn-builds.net/22.20-CL-22600409.7z) |
-| 22.40-CL-23070899                | 15th November 2022         	 | N/A           	    |	Download : [1](https://builds.fn-builds.net/22.40-CL-23070899.7z) |
+| 22.00-CL-22149829 | 18th September 2022 | N/A | [Download]() |
+| 22.10-CL-22429549 | 4th October 2022 | N/A | [Download]() |
+| 22.20-CL-22600409 | 18th October 2022 | N/A | [Download]() |
+| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	[Download]() |
 
 # Season 23
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 23.00-CL-23344627 | 4th December 2022 | N/A | Download : [1](https://builds.fn-builds.net/23.00-CL-23344627.7z)
-| 23.10-CL-23572221 | 13th December 2022 | N/A | Download : [1](https://builds.fn-builds.net/23.10-CL-23572221.zip)
-| 23.20-CL-23783097 | 19th January 2023 | N/A | Download : [1](https://builds.fn-builds.net/23.20-CL-23783097.zip)
-| 23.40-CL-24087481 | 14th February 2023 | N/A | Download : [1](https://builds.fn-builds.net/23.40-CL-24087481.zip)
-| 23.50-CL-? | 28th February 2023 | N/A | Download : [1](https://titanac.xyz/23.50.rar)
+| 23.00-CL-23344627 | 4th December 2022 | N/A | [Download]() |
+| 23.10-CL-23572221 | 13th December 2022 | N/A | [Download]() |
+| 23.20-CL-23783097 | 19th January 2023 | N/A | [Download]() |
+| 23.40-CL-24087481 | 14th February 2023 | N/A | [Download]() |
+| 23.50-CL-? | 28th February 2023 | N/A | [Download]() |
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.00-CL-24554913 | 10th March 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.00-CL-24554913.zip)
-| 24.01-CL-24672685 | 20th March 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.01-CL-24672685.zip)
-| 24.10-CL-24903530 | 29th March 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.10-CL-24903530.zip)
-| 24.20-CL-25156858	| 11th April 2023        	 | N/A           	    |	Download : [1](https://builds.fn-builds.net/24.20-CL-25156858.zip) |		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
-| 24.30-CL-23789416 | 2nd May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.30-CL-25347382.zip) |
-| 24.40-CL-25521145 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25521145.zip) ; [2](https://download.fn-archive.com/FortniteClient-24.40-CL-25521145.zip)
-| 24.40-CL-25595478 | 17th May 2023 | N/A | Download : [1](https://builds.fn-builds.net/24.40-CL-25595478.zip)
+| 24.00-CL-24554913 | 10th March 2023 | N/A | [Download]() |
+| 24.01-CL-24672685 | 20th March 2023 | N/A | [Download]() |
+| 24.10-CL-24903530 | 29th March 2023 | N/A | [Download]() |
+| 24.20-CL-25156858	| 11th April 2023        	 | N/A           	    |	[Download]() |
+| 24.30-CL-23789416 | 2nd May 2023 | N/A | [Download]() |
+| 24.40-CL-25521145 | 17th May 2023 | N/A | [Download]() |
+| 24.40-CL-25595478 | 17th May 2023 | N/A | [Download]() |
 
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 25.00-CL-25909622 | 17th June 2023 | N/A | Download : [1](https://builds.fn-builds.net/25.00-CL-25909622.7z) (BUGGED DO NOT DOWNLOAD)
-| 25.10-CL-26000959 | 20th June 2023 | N/A | Download : [1](https://builds.fn-builds.net/25.10-CL-26000959.7z) (BUGGED DO NOT DOWNLOAD)
-| 25.11-CL-26171015 | 27th June 2023 | N/A | Download : [1](https://builds.fn-builds.net/25.11-CL-26171015.7z) (BUGGED DO NOT DOWNLOAD)
-| 25.20-CL-26474516 | 26th July 2023 | N/A | Download : [1](https://builds.fn-builds.net/25.20-CL-26474516.7z) (BUGGED DO NOT DOWNLOAD)
-| 25.20-CL-26629111 | 26th July 2023 | N/A | Download : [1](https://builds.fn-builds.net/25.20-CL-26629111.7z) (BUGGED DO NOT DOWNLOAD)
-| 25.30-CL-26867995 | 8th August 2023 | N/A | Download : [1](https://builds.fn-builds.net/25.30-CL-26867995.7z) (BUGGED DO NOT DOWNLOAD)
+| 25.00-CL-25909622 | 17th June 2023 | N/A | [Download]() |
+| 25.10-CL-26000959 | 20th June 2023 | N/A | [Download]() |
+| 25.11-CL-26171015 | 27th June 2023 | N/A | [ Download]() |
+| 25.20-CL-26474516 | 26th July 2023 | N/A | [Download]() |
+| 25.20-CL-26629111 | 26th July 2023 | N/A | [Download]() |
+| 25.30-CL-26867995 | 8th August 2023 | N/A | [Download]() |
 
 # Season 26
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 26.00-CL-27233190 | 25th August 2023 | N/A | Download : [1](https://builds.fn-builds.net/26.00-CL-27233190.zip) (BUGGED DO NOT DOWNLOAD)
-| 26.00-CL-27424790 | 25th August 2023 | N/A | Download : [1](https://builds.fn-builds.net/26.00-CL-27424790.7z) (BUGGED DO NOT DOWNLOAD)
-| 26.10-CL-27681420 | 12th September 2023 | N/A | Download : [1](https://builds.fn-builds.net/26.10-CL-27681420.7z) (BUGGED DO NOT DOWNLOAD)
-| 26.20-CL-28096793 | 26th September 2023 | N/A | Download : [1](https://builds.fn-builds.net/26.20-CL-28096793.7z) (BUGGED DO NOT DOWNLOAD)
-| 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 Download : [1](https://r2.ploosh.dev/26.30.zip) ; [2](https://builds.fn-builds.net/26.30-CL-28688692.7z) (2nd LINK IS BUGGED DO NOT DOWNLOAD)|		0x6C26E2440AD403827551587600C6940F49822967F0CD4B188531404222E0F907 |
+| 26.00-CL-27233190 | 25th August 2023 | N/A | [Download]() |
+| 26.00-CL-27424790 | 25th August 2023 | N/A | [Download]() |
+| 26.10-CL-27681420 | 12th September 2023 | N/A | [Download]() |
+| 26.20-CL-28096793 | 26th September 2023 | N/A | [Download]() |
+| 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 [Download]() |
 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | Download : [1](https://builds.fn-builds.net/27.00-CL-29072304.7z)  (BUGGED DO NOT DOWNLOAD)
-| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | Download : [1](https://builds.fn-builds.net/27.10-CL-29552510.7z)  (BUGGED DO NOT DOWNLOAD)
-| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | Download : [1](https://builds.fn-builds.net/27.11-CL-29739262.7z) (BUGGED DO NOT DOWNLOAD)
+| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | [Download]()  (BUGGED DO NOT DOWNLOAD) |
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | [Download]()  (BUGGED DO NOT DOWNLOAD) |
+| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | [Download]() (BUGGED DO NOT DOWNLOAD) |
 
 # Season 28
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.00-CL-29915848.7z)  (BUGGED DO NOT DOWNLOAD) !
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Download : [1](https://gofile.io/d/7rYsij) TEMPORARY (Download before it gets taken down!)
-| 28.01-CL-30313795 | 19th December 2023| UE5.5 | Download : [1](https://builds.fn-builds.net/28.01-CL-30313795.7z)  (BUGGED DO NOT DOWNLOAD) ! 
-| 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.10-CL-30676362.7z)  (BUGGED DO NOT DOWNLOAD) ! 
-| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/28.20-CL-31286935.7z)
+| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | [Download]() |
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | [Download]() |
+| 28.01-CL-30313795 | 19th December 2023| UE5.5 | [Download]() |
+| 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | [Download]() |
+| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | [Download]() |
 
 # Season 29
 | Build | Date | Engine Version | Download links |
 | --- | --- | -- | --- |
-| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.00-CL-32116959.7z) (BUGGED DO NOT DOWNLOAD) 
-| 29.01-CL-32291970 | 19th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.01-CL-32291970.7z) (BUGGED DO NOT DOWNLOAD)
-| 29.10-CL-32391220 | 26th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.10-CL-32391220.7z) (BUGGED DO NOT DOWNLOAD) 
-| 29.10-CL-32567225 | 27th March 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.10-CL-32567225.7z)  (BUGGED DO NOT DOWNLOAD)
-| 29.20-CL-32716692 | 9th April 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.20-CL-32716692.7z)  (BUGGED DO NOT DOWNLOAD) 
-| 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.30-CL-32982357.7z)  (BUGGED DO NOT DOWNLOAD)
-| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/29.40-CL-33629566.7z) (BUGGED DO NOT DOWNLOAD)
+| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | [Download]() |
+| 29.01-CL-32291970 | 19th March 2024 | UE5.5 | [Download]() |
+| 29.10-CL-32391220 | 26th March 2024 | UE5.5 | [Download]() |
+| 29.10-CL-32567225 | 27th March 2024 | UE5.5 | [Download]() |
+| 29.20-CL-32716692 | 9th April 2024 | UE5.5 | [Download]() |
+| 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | [Download]() |
+| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | [Download]() |
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | Download : [1](https://builds.fn-builds.net/30.00-CL-33962396.7z)  (BUGGED DO NOT DOWNLOAD)
-| 30.10-CL-34261954 | 13th June 2024 | UE5.5 | Download : [1](https://builds.fn-builds.net/30.10-CL-34261954.7z)  (BUGGED DO NOT DOWNLOAD)
+| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | [Download]() |
+| 30.10-CL-34261954 | 13th June 2024 | UE5.5 | [Download]() |
 
 
 ### EVENT BUILDS
