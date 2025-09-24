@@ -168,25 +168,25 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 13.00-CL-1364927	                | 17th June 2020        	 | UE4.25            	    | [Download](https://d615ebd8b668.ngrok-free.app/13.00.rar) |	
 | 13.20-CL-N/A | 30th June 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/13.20-CL-13777676.rar) |
-| 13.30-CL-N/A | 21st July 2020 | UE4.25 | [Download]() |
-| 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		[Download]]() | 	
+| 13.30-CL-N/A | 21st July 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/13.30.rar) |
+| 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		[Download](https://d615ebd8b668.ngrok-free.app/13.40.zip) | 	
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links          |   
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-N/A	                | 25th August 2020        	 | UE4.25            	    |		[Download]() |	
+| 14.00-CL-N/A	                | 25th August 2020        	 | UE4.25            	    |		[Download](https://d615ebd8b668.ngrok-free.app/14.00.rar) |	
 | 14.10-CL-N/A | 10th September 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.10-CL-14312695.rar) |
 | 14.20-CL-N/A | 23rd September 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.20-CL-14384759.rar) |
 | 14.30-CL-14456520	                | 13th October 2020         	 | UE4.25            	    | [Download](https://d615ebd8b668.ngrok-free.app/14.30-CL-14456520.rar) |	
-| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	D[ownload]() |		
+| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	D[ownload](https://d615ebd8b668.ngrok-free.app/14.40.rar) |		
 | 14.50-CL-14643651 | 3rd November 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.50-CL-14643651.7z) |
-| 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		[Download]() |		
+| 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		[Download](https://d615ebd8b668.ngrok-free.app/14.60.rar) |		
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 15.00-CL-14835335        | 2nd December 2020         	 | UE4.26            	    | [Download](https://d615ebd8b668.ngrok-free.app/15.00-CL-14835335.7z) |			
-| 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	[Download]() |		
+| 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	[Download](https://d615ebd8b668.ngrok-free.app/15.10-CL-15014719.zip) |		
 | 15.21-CL-15083856 | 20th January 2021 | UE4.26 | [Download](https://d615ebd8b668.ngrok-free.app/15.21-CL-15083856.7z) |
 | 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |	[Download](https://d615ebd8b668.ngrok-free.app/15.30.zip)	 |		
 | 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/15.50.zip) |	
@@ -196,40 +196,40 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 16.00-CL-16054793	                | 16th March 2021        	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/16.00-CL-15685441.7z) |		
 | 16.10-CL-15913292 | 30th March 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/16.10-CL-15913292.7z) |
-| 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | [Download]() |
+| 16.30-CL-16163563  | 27th April 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/16.30.zip) |
 | 16.40-CL-16218553	                | 11th May 2021        	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/16.40.zip)	|		
 | 16.50-CL-16579425 | 25th May 2021 | UE4.26.1 |  [Download](https://d615ebd8b668.ngrok-free.app/16.50.zip) |
 
 # Season 17
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 17.00-CL-16593740 | 8th June 2021  | UE4.26.1 | [Download]() |
+| 17.00-CL-16593740 | 8th June 2021  | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.00-CL-16593740.rar) |
 | 17.10-CL-16745144 | 22nd June 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.10-CL-16745144.7z) |
 | 17.20-CL-16868155 | 20th July 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.20-CL-16868155.7z) |
 | 17.21-CL-16967001 | 27th July 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.21-CL-16967001.7z) | 
 | 17.30-CL-17004569	                | 3rd August 2021        	 | UE4.26.1            	    |		[Download](https://d615ebd8b668.ngrok-free.app/17.30.zip) |	
 | 17.40-CL-17269705 | 17th August 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/17.40-CL-17269705.7z) | 
-| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 [Download]()	|
+| 17.50-CL-17388565	                | 31st August 2021        	 | UE4.26.1            	    |	 [Download](https://d615ebd8b668.ngrok-free.app/17.50.zip)	|
 
 # Season 18
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	[Download]()  |		
+| 18.00-CL-17468642               | 24th September 2021        	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/18.00.rar)  |		
 | 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/18.10-CL-17661844.7z) |			
 | 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/18.20-CL-17792290.7z) |
 | 18.20-CL-17745267 | 12th October 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/18.20-CL-17745267.zip) |
-| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	[Download]() |
-| 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | [Download]() |
+| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	isnt saved yet |
+| 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | [Download](https://d615ebd8b668.ngrok-free.app/18.30.7z) |
 | 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	[Download](https://d615ebd8b668.ngrok-free.app/18.40-CL-18163738-Windows.zip) |		
 
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 19.00-CL-18049531 | 5th December 2021 | UE5.0 | [Download]() |
-| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Download]() |	
+| 19.00-CL-18049531 | 5th December 2021 | UE5.0 | isnt saved yet |
+| 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Download](https://d615ebd8b668.ngrok-free.app/19.01-CL-18489740.zip) |	
 | 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Download]() |
 | 19.20-CL-18775446 | 1st February 2022 | UE5.0 | [Download]()
-| 19.30-CL-? | 14th February 2022 | UE5.0 | [Download]() 
+| 19.30-CL-? | 14th February 2022 | UE5.0 | [Download](https://d615ebd8b668.ngrok-free.app/19.30-CL-19027703.rar) 
 | 19.40-CL-19215531 | 1st March 2022 | UE5.0 | [Download](https://d615ebd8b668.ngrok-free.app/19.40.7z) |
 
 # Season 20
