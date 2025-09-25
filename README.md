@@ -15,180 +15,180 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Online Tests
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	[Download](https://d615ebd8b668.ngrok-free.app/0nlineTest0.6.5.zip) |
+| OT6.5-CL-2870186 |  28th February 2016	   	 | UE4.12-2870186	    |	[Download]([https://horizonfn.ngrok.dev/0nlineTest0.6.5.zip) |
 | OT10.?-CL-NaN | 16th February 2017 | UE4.16-3470982 | isnt saved yet |
 | OT11-CL-NaN | 3rd June 2017 | UE4.16-3472679 | Xbox Download : isnt saved yet ; PC Extract Download : isnt saved yet
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Download](https://d615ebd8b668.ngrok-free.app/++Fortnite+Cert-CL-3532353.7z) |
-| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		[Download](https://d615ebd8b668.ngrok-free.app/1.2.zip) |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | [Download](https://horizonfn.ngrok.dev/++Fortnite+Cert-CL-3532353.7z) |
+| 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		[Download](https://horizonfn.ngrok.dev/1.2.zip) |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        [Download](https://d615ebd8b668.ngrok-free.app/1.7.2.zip) |	
-| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	[Download](https://d615ebd8b668.ngrok-free.app/1.8.rar) |		
-| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | [Download](https://d615ebd8b668.ngrok-free.app/1.8.1.rar) |		
-| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		[Download](https://d615ebd8b668.ngrok-free.app/1.8.2.rar) |		
-| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		[Download](https://d615ebd8b668.ngrok-free.app/1.9.rar) |		
-| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		[Download](https://d615ebd8b668.ngrok-free.app/1.9.1.rar)  |		
-| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		[Download](https://d615ebd8b668.ngrok-free.app/1.10.rar) |		
+| 1.7.2-CL-3700114        	| 17th October 2017      	 | UE4.16-3700114	    |	        [Download](https://horizonfn.ngrok.dev/1.7.2.zip) |	
+| 1.8-CL-3724489          	| 25th October 2017     	 | UE4.16-3724489	    |	[Download](https://horizonfn.ngrok.dev/1.8.rar) |		
+| 1.8.1-CL-3729133              | 2nd November 2017               | UE4.16-3729133           | [Download](https://horizonfn.ngrok.dev/1.8.1.rar) |		
+| 1.8.2-CL-3741772        	| 7th November 2017      	 | UE4.16-3741772	    |		[Download](https://horizonfn.ngrok.dev/1.8.2.rar) |		
+| 1.9-CL-3757339          	| 13th November 2017       	 | UE4.16-3757339	    |		[Download](https://horizonfn.ngrok.dev/1.9.rar) |		
+| 1.9.1-CL-3775276        	| 28th November 2017      	 | UE4.16-3775276	    |		[Download](https://horizonfn.ngrok.dev/1.9.1.rar)  |		
+| 1.10-CL-3790078	  	| 6th December 2017	   	 | UE4.19-3790078	    |		[Download](https://horizonfn.ngrok.dev/1.10.rar) |		
 
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- | 
-| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	[Download](https://d615ebd8b668.ngrok-free.app/1.11.zip) |
-| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	[Download](https://d615ebd8b668.ngrok-free.app/2.1.0.zip) |	
+| 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	[Download](https://horizonfn.ngrok.dev/1.11.zip) |
+| 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	[Download](https://horizonfn.ngrok.dev/2.1.0.zip) |	
 | 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		  isnt saved yet |	
-| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 [Download](https://d615ebd8b668.ngrok-free.app/2.3.rar) |	
-| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 [Download](https://d615ebd8b668.ngrok-free.app/2.4.0.zip) |	
-| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  [Download](https://d615ebd8b668.ngrok-free.app/2.4.2.zip)
-| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	    [Download](https://d615ebd8b668.ngrok-free.app/2.5.0.rar) |		
+| 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 [Download](https://horizonfn.ngrok.dev/2.3.rar) |	
+| 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 [Download](https://horizonfn.ngrok.dev/2.4.0.zip) |	
+| 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  [Download](https://horizonfn.ngrok.dev/2.4.2.zip)
+| 2.5.0-CL-3889387        	| 13th February 2018       	 | UE4.20-3889387	    |	    [Download](https://horizonfn.ngrok.dev/2.5.0.rar) |		
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	[Download](https://d615ebd8b668.ngrok-free.app/3.0.zip) |
-| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	 [Download](https://d615ebd8b668.ngrok-free.app/3.1.rar) |	
-| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		 [Download](https://d615ebd8b668.ngrok-free.app/3.1.1.zip) |
-| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/3.2.zip) |		
-| 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  [Download](https://d615ebd8b668.ngrok-free.app/3.3.rar) |		
-| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/3.5.zip) |	
-| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/3.6.zip) |		
+| 3.0-CL-3901517	 	| 21st February 2018	   	 | UE4.20-3901517	    |	[Download](https://horizonfn.ngrok.dev/3.0.zip) |
+| 3.1-CL-3915963    		| 28th February 2018        	 | UE4.20-3915963      	    |   	 [Download](https://horizonfn.ngrok.dev/3.1.rar) |	
+| 3.1.1-CL-3917250	  	| 28th February 2018       	 | UE4.20-3917250	    |		 [Download](https://horizonfn.ngrok.dev/3.1.1.zip) |
+| 3.2-CL-3935073	  	| 8th March 2018       	 | UE4.20-3935073 	    | 		 [Download](https://horizonfn.ngrok.dev/3.2.zip) |		
+| 3.3-CL-3942182                | 15th March 2018               | UE4.20-3942182           |  [Download](https://horizonfn.ngrok.dev/3.3.rar) |		
+| 3.5-CL-4008490          	| 11th April 2018       	 | UE4.20-4008490	    | 		 [Download](https://horizonfn.ngrok.dev/3.5.zip) |	
+| 3.6-CL-4019403          	| 24th April 2018     	 | UE4.20-4019403	    | 		 [Download](https://horizonfn.ngrok.dev/3.6.zip) |		
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		[Download](https://d615ebd8b668.ngrok-free.app/4.0.zip) |		
-| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		[Download](https://d615ebd8b668.ngrok-free.app/4.1.zip) |	
-| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/4.2.zip)|		
-| 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           [Download](https://d615ebd8b668.ngrok-free.app/4.4.rar) |		
+| 4.0-CL-4039451          	| 2nd May 2018       	 | UE4.20-4039451	    |		[Download](https://horizonfn.ngrok.dev/4.0.zip) |		
+| 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		[Download](https://horizonfn.ngrok.dev/4.1.zip) |	
+| 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 [Download](https://horizonfn.ngrok.dev/4.2.zip)|		
+| 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           [Download](https://horizonfn.ngrok.dev/4.4.rar) |		
 | 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |           isnt saved yet |	
-| 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		 [Download](https://d615ebd8b668.ngrok-free.app/4.5.zip) |	
-| 4.5-CL-4166199          	| 3rd July 2018     	 | UE4.20     	    |		 [Download](https://d615ebd8b668.ngrok-free.app/4.5-4166199.rar) |
+| 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		 [Download](https://horizonfn.ngrok.dev/4.5.zip) |	
+| 4.5-CL-4166199          	| 3rd July 2018     	 | UE4.20     	    |		 [Download](https://horizonfn.ngrok.dev/4.5-4166199.rar) |
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 5.00-CL-4204761  	  	| 12th July 2018       	 | UE4.21-4204761	    |		 [Download](https://d615ebd8b668.ngrok-free.app/5.00.rar) |		
-| 5.01-CL-4214610	  	| 12th July 2018      	 | UE4.21-4214610	    |		 [Download](https://d615ebd8b668.ngrok-free.app/5.0.1.rar) |		
-| 5.10-CL-4240749         	| 25th July 2018       	 | UE4.21-4240749	    |		 [Download](https://d615ebd8b668.ngrok-free.app/5.10.rar) |		
-| 5.10-CL-4225813         	| 31st July 2018       	 | UE4.21	    |		 [Download](https://d615ebd8b668.ngrok-free.app/5.10-4225813.rar) |
-| 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |      [Download](https://d615ebd8b668.ngrok-free.app/5.21.rar) |		
-| 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |       [Download](https://d615ebd8b668.ngrok-free.app/5.30.rar) |	
-| 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		 [Download](https://d615ebd8b668.ngrok-free.app/5.40.rar) |		
-| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		[Download](https://d615ebd8b668.ngrok-free.app/5.41.zip) |	
+| 5.00-CL-4204761  	  	| 12th July 2018       	 | UE4.21-4204761	    |		 [Download](https://horizonfn.ngrok.dev/5.00.rar) |		
+| 5.01-CL-4214610	  	| 12th July 2018      	 | UE4.21-4214610	    |		 [Download](https://horizonfn.ngrok.dev/5.0.1.rar) |		
+| 5.10-CL-4240749         	| 25th July 2018       	 | UE4.21-4240749	    |		 [Download](https://horizonfn.ngrok.dev/5.10.rar) |		
+| 5.10-CL-4225813         	| 31st July 2018       	 | UE4.21	    |		 [Download](https://horizonfn.ngrok.dev/5.10-4225813.rar) |
+| 5.21-CL-4288479         	| 15th August 2018     | UE4.21-4288479 	    |      [Download](https://horizonfn.ngrok.dev/5.21.rar) |		
+| 5.30-CL-4305896         	| 23rd August 2018     	 | UE4.21-4305896	    |       [Download](https://horizonfn.ngrok.dev/5.30.rar) |	
+| 5.40-CL-4352937         	| 5th September 2018     	 | UE4.21-4352937	    |		 [Download](https://horizonfn.ngrok.dev/5.40.rar) |		
+| 5.41-CL-4363240         	| 18th September 2018    	 | UE4.21-4352937	    |		[Download](https://horizonfn.ngrok.dev/5.41.zip) |	
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 6.00-CL-4395664         	| 27th September 2018       	 | UE4.21-4395664	    |		[Download](https://d615ebd8b668.ngrok-free.app/6.00.rar) |	
-| 6.00-CL-4402180         	|  ?/?2018       	          | UE4.21	    |		[Download](https://d615ebd8b668.ngrok-free.app/6.00-4402180.rar) |
-| 6.01-CL-4417689         	| 3rd October 2018     	 | UE4.21-4417689	    |      [Download](https://d615ebd8b668.ngrok-free.app/6.01.rar) |		
-| 6.01.1-CL-4424678		| 3rd October 2018		 | UE4.21-4424678	    | 	 [Download](https://d615ebd8b668.ngrok-free.app/6.01.rar) |		
-| 6.02-CL-4442095        	| 10th October 2018     		 | UE4.21-4442095    	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/6.02.rar) |		
-| 6.02.1-CL-4461277        	| 10th October 2018    	 | UE4.21-4461277	    |            [Download](https://d615ebd8b668.ngrok-free.app/6.2.1.rar) |		
-| 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/6.10.rar) |		
-| 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 	 [Download](https://d615ebd8b668.ngrok-free.app/6.10.1.rar) |		
-| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 [Download](https://d615ebd8b668.ngrok-free.app/6.10.2.rar) |	
-| 6.20-CL-4497486 | 24th October 2018 | UE4.21-? | [Download](https://d615ebd8b668.ngrok-free.app/6.20-CL-4497486.rar)
-| 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		 [Download](https://d615ebd8b668.ngrok-free.app/6.21.rar) |
-| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		 [Download](https://d615ebd8b668.ngrok-free.app/6.22.rar) |		
-| 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		 [Download](https://d615ebd8b668.ngrok-free.app/6.30.rar)|		
-| 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		 [Download](https://d615ebd8b668.ngrok-free.app/6.31.rar) |		
+| 6.00-CL-4395664         	| 27th September 2018       	 | UE4.21-4395664	    |		[Download](https://horizonfn.ngrok.dev/6.00.rar) |	
+| 6.00-CL-4402180         	|  ?/?2018       	          | UE4.21	    |		[Download](https://horizonfn.ngrok.dev/6.00-4402180.rar) |
+| 6.01-CL-4417689         	| 3rd October 2018     	 | UE4.21-4417689	    |      [Download](https://horizonfn.ngrok.dev/6.01.rar) |		
+| 6.01.1-CL-4424678		| 3rd October 2018		 | UE4.21-4424678	    | 	 [Download](https://horizonfn.ngrok.dev/6.01.rar) |		
+| 6.02-CL-4442095        	| 10th October 2018     		 | UE4.21-4442095    	    | 		 [Download](https://horizonfn.ngrok.dev/6.02.rar) |		
+| 6.02.1-CL-4461277        	| 10th October 2018    	 | UE4.21-4461277	    |            [Download](https://horizonfn.ngrok.dev/6.2.1.rar) |		
+| 6.10-CL-4464155       	| 16th October 2018      	 | UE4.21-4464155   	    | 		 [Download](https://horizonfn.ngrok.dev/6.10.rar) |		
+| 6.10.1-CL-4476098       	| 16th October 2018    	 | UE4.21-4476098   	    | 	 [Download](https://horizonfn.ngrok.dev/6.10.1.rar) |		
+| 6.10.2-CL-4480234   	  	| 16th October 2018      	 | UE4.21-4480234	    |		 [Download](https://horizonfn.ngrok.dev/6.10.2.rar) |	
+| 6.20-CL-4497486 | 24th October 2018 | UE4.21-? | [Download](https://horizonfn.ngrok.dev/6.20-CL-4497486.rar)
+| 6.21-CL-4526925         	| 1st November 2018       	 | UE4.21-4526925	    |		 [Download](https://horizonfn.ngrok.dev/6.21.rar) |
+| 6.22-CL-4543176		| 4th November 2018		 | UE4.21-4543176	    | 		 [Download](https://horizonfn.ngrok.dev/6.22.rar) |		
+| 6.30-CL-4573096         	| 13th November 2018     	 | UE4.21-4573096	    |		 [Download](https://horizonfn.ngrok.dev/6.30.rar)|		
+| 6.31-CL-4573279      	  	| 27th November 2018      	 | UE4.21-4573279	    |		 [Download](https://horizonfn.ngrok.dev/6.31.rar) |		
 
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		 [Download](https://d615ebd8b668.ngrok-free.app/7.00.rar) |	
-| 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		 [Download](https://d615ebd8b668.ngrok-free.app/7.10.rar) |		
-| 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		 [Download](https://d615ebd8b668.ngrok-free.app/7.20.rar) |		
-| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		 [Download](https://d615ebd8b668.ngrok-free.app/7.30.zip) |	
-| 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		 [Download](https://d615ebd8b668.ngrok-free.app/7.40.rar) |	
+| 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		 [Download](https://horizonfn.ngrok.dev/7.00.rar) |	
+| 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		 [Download](https://horizonfn.ngrok.dev/7.10.rar) |		
+| 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		 [Download](https://horizonfn.ngrok.dev/7.20.rar) |		
+| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		 [Download](https://horizonfn.ngrok.dev/7.30.zip) |	
+| 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		 [Download](https://horizonfn.ngrok.dev/7.40.rar) |	
 
 # Season 8
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		[Download](https://d615ebd8b668.ngrok-free.app/8.00.zip) |
-| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/8.20.rar) | 		
-| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/8.30.rar) |		
-| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/8.40.zip) |		
-| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/8.50.zip) |
-| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/8.51.rar) |	
+| 8.00-CL-5203069	              | 28th February 2019     	 | UE4.22            	    |		[Download](https://horizonfn.ngrok.dev/8.00.zip) |
+| 8.20-CL-5625478	              | 27th March 2019        	 | UE4.23            	    |		 [Download](https://horizonfn.ngrok.dev/8.20.rar) | 		
+| 8.30-CL-5793395	              | 10th April 2019   	 | UE4.23            	    |		 [Download](https://horizonfn.ngrok.dev/8.30.rar) |		
+| 8.40-CL-6005771	              | 17th April 2019       	 | UE4.23            	    |		 [Download](https://horizonfn.ngrok.dev/8.40.zip) |		
+| 8.50-CL-6058028	              | 25th April 2019       	 | UE4.23            	    |		 [Download](https://horizonfn.ngrok.dev/8.50.zip) |
+| 8.51-CL-6165369	              | 2nd May 2019         	 | UE4.23            	    |		 [Download](https://horizonfn.ngrok.dev/8.51.rar) |	
 
 # Season 9
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		  
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		[Download](https://d615ebd8b668.ngrok-free.app/9.00.zip) |
-| 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		[Download](https://d615ebd8b668.ngrok-free.app/9.01.zip) |
-| 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		[Download](https://d615ebd8b668.ngrok-free.app/9.10.rar) |
-| 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  [Download](https://d615ebd8b668.ngrok-free.app/9.20-CL-6822798.rar)
-| 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		[Download](https://d615ebd8b668.ngrok-free.app/9.21.zip) |
-| 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		[Download](https://d615ebd8b668.ngrok-free.app/9.30.zip) |
-| 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/9.40.zip) |
-| 9.41-CL-7609292	              | 23rd July 2019      	 | UE4.23            	    |		[Download](https://d615ebd8b668.ngrok-free.app/9.41.rar) |
+| 9.00-CL-6337466	              | 9th May 2019      	  | UE4.23            	    |		[Download](https://horizonfn.ngrok.dev/9.00.zip) |
+| 9.01-CL-6428087	              | 15th May 2019     	  | UE4.23            	    |		[Download](https://horizonfn.ngrok.dev/9.01.zip) |
+| 9.10-CL-6639283	              | 19th May 2019     	   | UE4.23            	    |		[Download](https://horizonfn.ngrok.dev/9.10.rar) |
+| 9.20-CL-6822798 | 6th June 2019 | UE4.23 |  [Download](https://horizonfn.ngrok.dev/9.20-CL-6822798.rar)
+| 9.21-CL-6922310	              | 12th June 2019       	 | UE4.23            	    |		[Download](https://horizonfn.ngrok.dev/9.21.zip) |
+| 9.30-CL-7095426	              | 9th July 2019       	 | UE4.23            	    |		[Download](https://horizonfn.ngrok.dev/9.30.zip) |
+| 9.40-CL-7315705               | 17th July 2019      	 | UE4.23            	    |		 [Download](https://horizonfn.ngrok.dev/9.40.zip) |
+| 9.41-CL-7609292	              | 23rd July 2019      	 | UE4.23            	    |		[Download](https://horizonfn.ngrok.dev/9.41.rar) |
 
 # Season 10
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	[Download](https://d615ebd8b668.ngrok-free.app/10.00.zip) |
-| 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 [Download](https://d615ebd8b668.ngrok-free.app/10.10.zip) |
-| 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 [Download](https://d615ebd8b668.ngrok-free.app/10.20.zip) |
-| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  [Download](https://d615ebd8b668.ngrok-free.app/10.30-CL-8569414.rar)
-| 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	[Download](https://d615ebd8b668.ngrok-free.app/10.31.zip) |
-| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		[Download](https://d615ebd8b668.ngrok-free.app/10.40-CL-9380822.rar) |
+| 10.00-CL-7704164	             | 1st August 2019      	     | UE4.23            |	[Download](https://horizonfn.ngrok.dev/10.00.zip) |
+| 10.10-CL-7955722	             | 10th August 2019      	     | UE4.23            |	 [Download](https://horizonfn.ngrok.dev/10.10.zip) |
+| 10.20-CL-8456527	             | 27th August 2019     	     | UE4.23            |	 [Download](https://horizonfn.ngrok.dev/10.20.zip) |
+| 10.30-CL-8569425 | 12th September 2019 | UE4.23 |  [Download](https://horizonfn.ngrok.dev/10.30-CL-8569414.rar)
+| 10.31-CL-8723043	             | 18th September 2019   	     | UE4.23            |	[Download](https://horizonfn.ngrok.dev/10.31.zip) |
+| 10.40-CL-9380822           	  | 25th September 2019  	     | UE4.23            |		[Download](https://horizonfn.ngrok.dev/10.40-CL-9380822.rar) |
 
 # Season 11
 | Build                         | Date           	 |  Engine Version	    |		    Download links                     |
 | ----------------------------- | ---------------- | ------------------- | --------------------------------------- | 
-| 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 [Download](https://d615ebd8b668.ngrok-free.app/11.00-CL-9562734.7z) |
-| 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.01-CL-97282720.7z) |
-| 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	[Download](https://d615ebd8b668.ngrok-free.app/11.10-CL-9901083.7z) |
-| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.11-CL-10082788.7z) |
-| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.20-CL-10297577.7z) |
-| 11.21-CL-10481509 | 4th December 2019 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.21-CL-10481509.7z) |
-| 11.30-CL-?	                 | 12th December 2019        	    | UE4.24                 | [Download](https://d615ebd8b668.ngrok-free.app/11.30.7z) |
-| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | [Download](https://d615ebd8b668.ngrok-free.app/11.31.rar) |
-| 11.40-CL-11039906 | 15th January 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.40-CL-11039906.7z) |
-| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/11.50.7z) |
+| 11.00-CL-9603448	             | 15th October 2019       | UE4.24              |	 [Download](https://horizonfn.ngrok.dev/11.00-CL-9562734.7z) |
+| 11.01-CL-9728272 | 22nd October 2019 | UE4.24 | [Download](https://horizonfn.ngrok.dev/11.01-CL-97282720.7z) |
+| 11.10-CL-9901083	             | 28th October 2019 | UE4.24              |	[Download](https://horizonfn.ngrok.dev/11.10-CL-9901083.7z) |
+| 11.11-CL-10082788 | 13th November 2019 | UE4.24 | [Download](https://horizonfn.ngrok.dev/11.11-CL-10082788.7z) |
+| 11.20-CL-10297577 | 20th November 2019 | UE4.24 | [Download](https://horizonfn.ngrok.dev/11.20-CL-10297577.7z) |
+| 11.21-CL-10481509 | 4th December 2019 | UE4.24 | [Download](https://horizonfn.ngrok.dev/11.21-CL-10481509.7z) |
+| 11.30-CL-?	                 | 12th December 2019        	    | UE4.24                 | [Download](https://horizonfn.ngrok.dev/11.30.7z) |
+| 11.31-CL-10800459	                 | 18th December 2019        	    | UE4.24                 | [Download](https://horizonfn.ngrok.dev/11.31.rar) |
+| 11.40-CL-11039906 | 15th January 2020 | UE4.24 | [Download](https://horizonfn.ngrok.dev/11.40-CL-11039906.7z) |
+| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | [Download](https://horizonfn.ngrok.dev/11.50.7z) |
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 12.00-CL-11586896	                | 20th February 2020         	 | UE4.24            	    |	[Download](https://d615ebd8b668.ngrok-free.app/12.00-CL-11586896.7z) |
-| 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |  [Download](https://d615ebd8b668.ngrok-free.app/12.10.zip) |
-| 12.20-CL-N/A | 17th March 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/12.20.rar) |
-| 12.21-CL-N/A	                | 24th March 2020        	 | UE4.24            	    |		[Download](https://d615ebd8b668.ngrok-free.app/12.21.zip) |
-| 12.40-CL-N/A | 15th April 2020 | UE4.24 | [Download](https://d615ebd8b668.ngrok-free.app/12.40.rar) |
-| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/12.41-CL-12905909-Windows.zip) |
-| 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		[Download](https://d615ebd8b668.ngrok-free.app/12.50.zip)  |	
-| 12.60-CL-13477524 | 20th May 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/12.60-CL-13477524.7z) |
-| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 [Download](https://d615ebd8b668.ngrok-free.app/12.61.zip) |		
+| 12.00-CL-11586896	                | 20th February 2020         	 | UE4.24            	    |	[Download](https://horizonfn.ngrok.dev/12.00-CL-11586896.7z) |
+| 12.10-CL-N/A	                | 15th March 2020         	 | UE4.24            	    |  [Download](https://horizonfn.ngrok.dev/12.10.zip) |
+| 12.20-CL-N/A | 17th March 2020 | UE4.24 | [Download](https://horizonfn.ngrok.dev/12.20.rar) |
+| 12.21-CL-N/A	                | 24th March 2020        	 | UE4.24            	    |		[Download](https://horizonfn.ngrok.dev/12.21.zip) |
+| 12.40-CL-N/A | 15th April 2020 | UE4.24 | [Download](https://horizonfn.ngrok.dev/12.40.rar) |
+| 12.41-CL-12905909	          | 21st April 2020       	 | UE4.24            	    |		 [Download](https://horizonfn.ngrok.dev/12.41-CL-12905909-Windows.zip) |
+| 12.50-CL-N/A	                | 29th April 2020       	 | UE4.24            	    |		[Download](https://horizonfn.ngrok.dev/12.50.zip)  |	
+| 12.60-CL-13477524 | 20th May 2020 | UE4.25 | [Download](https://horizonfn.ngrok.dev/12.60-CL-13477524.7z) |
+| 12.61-CL-13498980	                | 26th May 2020        	 | UE4.24            	    |	 [Download](https://horizonfn.ngrok.dev/12.61.zip) |		
 
 # Season 13
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 13.00-CL-1364927	                | 17th June 2020        	 | UE4.25            	    | [Download](https://d615ebd8b668.ngrok-free.app/13.00.rar) |	
-| 13.20-CL-N/A | 30th June 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/13.20-CL-13777676.rar) |
-| 13.30-CL-N/A | 21st July 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/13.30.rar) |
-| 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		[Download](https://d615ebd8b668.ngrok-free.app/13.40.zip) | 	
+| 13.00-CL-1364927	                | 17th June 2020        	 | UE4.25            	    | [Download](https://horizonfn.ngrok.dev/13.00.rar) |	
+| 13.20-CL-N/A | 30th June 2020 | UE4.25 | [Download](https://horizonfn.ngrok.dev/13.20-CL-13777676.rar) |
+| 13.30-CL-N/A | 21st July 2020 | UE4.25 | [Download](https://horizonfn.ngrok.dev/13.30.rar) |
+| 13.40-CL-14008768	           | 5th August 2020        	 | UE4.25           	    |		[Download](https://horizonfn.ngrok.dev/13.40.zip) | 	
 
 # Season 14
 | Build                         | Date           	 |  Engine Version	    |		    Download links          |   
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 14.00-CL-N/A	                | 25th August 2020        	 | UE4.25            	    |		[Download](https://d615ebd8b668.ngrok-free.app/14.00.rar) |	
-| 14.10-CL-N/A | 10th September 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.10-CL-14312695.rar) |
-| 14.20-CL-N/A | 23rd September 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.20-CL-14384759.rar) |
-| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.25            	    | [Download](https://d615ebd8b668.ngrok-free.app/14.30-CL-14456520.rar) |	
-| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	[Download](https://d615ebd8b668.ngrok-free.app/14.40.rar) |		
-| 14.50-CL-14643651 | 3rd November 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.50-CL-14643651.7z) |
-| 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		[Download](https://d615ebd8b668.ngrok-free.app/14.60.rar) |		
+| 14.00-CL-N/A	                | 25th August 2020        	 | UE4.25            	    |		[Download](https://horizonfn.ngrok.dev/14.00.rar) |	
+| 14.10-CL-N/A | 10th September 2020 | UE4.25 | [Download](https://horizonfn.ngrok.dev/14.10-CL-14312695.rar) |
+| 14.20-CL-N/A | 23rd September 2020 | UE4.25 | [Download](https://horizonfn.ngrok.dev/14.20-CL-14384759.rar) |
+| 14.30-CL-14456520	                | 13th October 2020         	 | UE4.25            	    | [Download](https://horizonfn.ngrok.dev/14.30-CL-14456520.rar) |	
+| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	[Download](https://horizonfn.ngrok.dev/14.40.rar) |		
+| 14.50-CL-14643651 | 3rd November 2020 | UE4.25 | [Download](https://horizonfn.ngrok.dev/14.50-CL-14643651.7z) |
+| 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		[Download](https://horizonfn.ngrok.dev/14.60.rar) |		
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 15.00-CL-14835335        | 2nd December 2020         	 | UE4.26            	    | [Download](https://d615ebd8b668.ngrok-free.app/15.00-CL-14835335.7z) |			
-| 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	[Download](https://d615ebd8b668.ngrok-free.app/15.10-CL-15014719.zip) |		
+| 15.00-CL-14835335        | 2nd December 2020         	 | UE4.26            	    | [Download](https://horizonfn.ngrok.dev/15.00-CL-14835335.7z) |			
+| 15.10-CL-15014719	                | 15th December 2020         	 | UE4.26            	    |	[Download](https://horizonfn.ngrok.dev/15.10-CL-15014719.zip) |		
 | 15.21-CL-15083856 | 20th January 2021 | UE4.26 | [Download](https://d615ebd8b668.ngrok-free.app/15.21-CL-15083856.7z) |
 | 15.30-CL-15341163	          | 2nd February 2021         	 | UE4.26            	    |	[Download](https://d615ebd8b668.ngrok-free.app/15.30.zip)	 |		
 | 15.50-CL-15570449	                | 2nd March 2021        	 | UE4.26            	    |		 [Download](https://d615ebd8b668.ngrok-free.app/15.50.zip) |	
