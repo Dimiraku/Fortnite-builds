@@ -3,7 +3,7 @@
 # All links are provided by us.
 These were all the builds me and Byzn were able to find and save, we are aware that there are more but we couldnt get them, if you'd like to help us get more builds contact either one of us on discord: dimiraku, wallonia.
 
-
+[Jump yo Credits](#credits)
 
 # If you use my links please make sure to credit me!
 Thanks to everyone who had been hosting the builds so we could get them.
@@ -178,7 +178,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 14.10-CL-N/A | 10th September 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.10-CL-14312695.rar) |
 | 14.20-CL-N/A | 23rd September 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.20-CL-14384759.rar) |
 | 14.30-CL-14456520	                | 13th October 2020         	 | UE4.25            	    | [Download](https://d615ebd8b668.ngrok-free.app/14.30-CL-14456520.rar) |	
-| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	D[ownload](https://d615ebd8b668.ngrok-free.app/14.40.rar) |		
+| 14.40-CL-14550713	          | 21st October 2020         	 | UE4.25           	    |	[Download](https://d615ebd8b668.ngrok-free.app/14.40.rar) |		
 | 14.50-CL-14643651 | 3rd November 2020 | UE4.25 | [Download](https://d615ebd8b668.ngrok-free.app/14.50-CL-14643651.7z) |
 | 14.60-CL-14786821           | 18th November 2020       	  | UE4.25           	    |		[Download](https://d615ebd8b668.ngrok-free.app/14.60.rar) |		
 
