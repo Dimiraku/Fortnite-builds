@@ -5,7 +5,7 @@ These were all the builds me and Byzn were able to find and save, we are aware t
 
 [Credits](#credits)
 
-[Events[(EVENT BUILDS)
+[Events](#EVENTS)
 
 # If you use my links please make sure to credit me!
 Thanks to everyone who had been hosting the builds so we could get them.
@@ -338,7 +338,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 30.10-CL-34261954 | 13th June 2024 | UE5.5 | isnt saved yet |
 
 
-## EVENT BUILDS
+## EVENTS
 v3.6 - 16.2 GB | It's raining meteors | Play using Rift | Play using Reboot
 
 v4.5 - 23,0 GB | Blast Off┃ Play using Rift | Play using REboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
