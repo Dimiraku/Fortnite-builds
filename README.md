@@ -244,93 +244,96 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 21.00-CL-20463113 | 5th June 2022 | UE5.1 | [Download]() |
-| 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | [Download]() | 	
-| 21.20-CL-21035704 | 6th July 2022 | UE5.1 |  [Download]() |
-| 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  [Download]() |
-| 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  [Download]() |
-| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  [Download]() |
-| 21.51-CL-21735703 | 7th September 2022 | UE5.1 | [Download]() |
+| 21.00-CL-20463113 | 5th June 2022 | UE5.1 | [Download](https://d615ebd8b668.ngrok-free.app/21.00.zip) |
+| 21.10-CL-20959871	                | 21st June 2022         	 | UE5.1           	    | [Download](https://d615ebd8b668.ngrok-free.app/21.10.zip) | 	
+| 21.20-CL-20978394 | 6th July 2022 | UE5.1 |  [Download](https://d615ebd8b668.ngrok-free.app/21.20-CL-20978394.7z) |
+| 21.30-CL-21155462 | 18th July 2022 | UE5.1 |  [Download](https://d615ebd8b668.ngrok-free.app/21.30-CL-21155462.7z) |
+| 21.40-CL-21407327 | 16th August 2022 | UE5.1 |  [Download](https://d615ebd8b668.ngrok-free.app/21.40-CL-21407327.7z) |
+| 21.50-CL-21245791                | 30th August 2022 | UE5.1 |  [Download](https://d615ebd8b668.ngrok-free.app/21.50.zip) |
+| 21.51-CL-21735703 | 7th September 2022 | UE5.1 | [Download](https://d615ebd8b668.ngrok-free.app/21.51.7z) |
 
 # Season 22
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 22.00-CL-22149829 | 18th September 2022 | N/A | [Download]() |
-| 22.10-CL-22429549 | 4th October 2022 | N/A | [Download]() |
-| 22.20-CL-22600409 | 18th October 2022 | N/A | [Download]() |
-| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	[Download]() |
+| 22.00-CL-22149829 | 18th September 2022 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/22.00.7z) |
+| 22.10-CL-22429549 | 4th October 2022 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/22.10-CL-22429549.7z) |
+| 22.20-CL-22600409 | 18th October 2022 | N/A | isnt saved yet |
+| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	isnt saved yet |
 
 # Season 23
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 23.00-CL-23344627 | 4th December 2022 | N/A | [Download]() |
-| 23.10-CL-23572221 | 13th December 2022 | N/A | [Download]() |
-| 23.20-CL-23783097 | 19th January 2023 | N/A | [Download]() |
-| 23.40-CL-24087481 | 14th February 2023 | N/A | [Download]() |
-| 23.50-CL-? | 28th February 2023 | N/A | [Download]() |
+| 23.00-CL-23344627 | 4th December 2022 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/23.00.7z) |
+| 23.10-CL-23443094 | 13th December 2022 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/23.10-CL-23443094.rar) |
+| 23.20-CL-23783097 | 19th January 2023 | N/A | isnt saved yet |
+| 23.40-CL-24087481 | 14th February 2023 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/23.40.zip) |
+| 23.50-CL-? | 28th February 2023 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/23.50.zip) |
 
 # Season 24
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 24.00-CL-24554913 | 10th March 2023 | N/A | [Download]() |
-| 24.01-CL-24672685 | 20th March 2023 | N/A | [Download]() |
-| 24.10-CL-24903530 | 29th March 2023 | N/A | [Download]() |
-| 24.20-CL-25156858	| 11th April 2023        	 | N/A           	    |	[Download]() |
-| 24.30-CL-23789416 | 2nd May 2023 | N/A | [Download]() |
-| 24.40-CL-25521145 | 17th May 2023 | N/A | [Download]() |
-| 24.40-CL-25595478 | 17th May 2023 | N/A | [Download]() |
+| 24.00-CL-24554913 | 10th March 2023 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/24.00-CL-24554913.zip) |
+| 24.01-CL-24672685 | 20th March 2023 | N/A | isnt saved yet |
+| 24.10-CL-24903530 | 29th March 2023 | N/A | isnt saved yet |
+| 24.20-CL-25156858	| ?/?2023        	 | N/A           	    |	[Download](https://d615ebd8b668.ngrok-free.app/24.20-CL-24939793.rar) |
+| 24.20-CL-24939793	| 11th April 2023        	 | N/A           	    |	[Download](https://d615ebd8b668.ngrok-free.app/24.20-CL-25156858.zip) |
+| 24.30-CL-23789416 | 2nd May 2023 | N/A | isnt saved yet |
+| 24.40-CL-25521145 | 17th May 2023 | N/A | isnt saved yet |
+| 24.40-CL-25595478 | 17th May 2023 | N/A | [Download](https://d615ebd8b668.ngrok-free.app/24.40-CL-25595478.zip) |
 
 # Season 25
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 25.00-CL-25909622 | 17th June 2023 | N/A | [Download]() |
-| 25.10-CL-26000959 | 20th June 2023 | N/A | [Download]() |
-| 25.11-CL-26171015 | 27th June 2023 | N/A | [ Download]() |
-| 25.20-CL-26474516 | 26th July 2023 | N/A | [Download]() |
-| 25.20-CL-26629111 | 26th July 2023 | N/A | [Download]() |
-| 25.30-CL-26867995 | 8th August 2023 | N/A | [Download]() |
+| 25.00-CL-25909622 | 17th June 2023 | N/A | isnt saved yet |
+| 25.10-CL-26000959 | 20th June 2023 | N/A | isnt saved yet |
+| 25.11-CL-26171015 | 27th June 2023 | N/A | isnt saved yet |
+| 25.20-CL-26474516 | 26th July 2023 | N/A | isnt saved yet |
+| 25.20-CL-26629111 | 26th July 2023 | N/A | isnt saved yet |
+| 25.30-CL-26867995 | 8th August 2023 | N/A | isnt saved yet |
 
 # Season 26
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
-| 26.00-CL-27233190 | 25th August 2023 | N/A | [Download]() |
-| 26.00-CL-27424790 | 25th August 2023 | N/A | [Download]() |
-| 26.10-CL-27681420 | 12th September 2023 | N/A | [Download]() |
-| 26.20-CL-28096793 | 26th September 2023 | N/A | [Download]() |
-| 26.30-CL-28798412	                | 10th October 2023         	 | N/A           	    |	 [Download]() |
+| 26.00-CL-27233190 | 25th August 2023 | N/A | isnt saved yet |
+| 26.00-CL-27424790 | 25th August 2023 | N/A | isnt saved yet |
+| 26.10-CL-27681420 | 12th September 2023 | N/A | isnt saved yet |
+| 26.20-CL-28096793 | 26th September 2023 | N/A | isnt saved yet |
+| 26.30-CL-28688692	                | 10th October 2023         	 | N/A           	    |	 [Download](https://d615ebd8b668.ngrok-free.app/26.30-CL-28509302.zip) |
+| 26.30-CL-28509302	                | 17th October 2023         	 | N/A           	    |	 [Download](https://d615ebd8b668.ngrok-free.app/26.30-CL-28688692.zip) |
 
 # Season 27
 | Build               | Date                 | Engine Version    | Download links |
 | ------------------- | --------------------- | ----------------- | ------------------------ |
-| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | [Download]()  (BUGGED DO NOT DOWNLOAD) |
-| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | [Download]()  (BUGGED DO NOT DOWNLOAD) |
-| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | [Download]() (BUGGED DO NOT DOWNLOAD) |
+| 27.00-CL-29072304 | 3rd November 2023 | UE5.4 | [Download](https://d615ebd8b668.ngrok-free.app/27.00-CL-29072304.zip) |
+| 27.10-CL-29578459 | 16th November 2023 | UE5.4 | [Download](https://d615ebd8b668.ngrok-free.app/27.10-CL-29552510.zip) |
+| 27.11-CL-29739262 | 21st November 2023 | UE5.4 | [Download](https://d615ebd8b668.ngrok-free.app/27.11-CL-29739262.7z) |
 
 # Season 28
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
-| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | [Download]() |
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | [Download]() |
-| 28.01-CL-30313795 | 19th December 2023| UE5.5 | [Download]() |
-| 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | [Download]() |
-| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | [Download]() |
+| 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | [Download](https://d615ebd8b668.ngrok-free.app/28.00-CL-29915848.7z) |
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | isnt saved yet |
+| 28.01-CL-30313795 | 19th December 2023| UE5.5 | isnt saved yet |
+| 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | isnt saved yet |
+| 28.20-CL-31286935 | 5th February 2024 | UE5.5 | [Download](https://d615ebd8b668.ngrok-free.app/28.20-CL-31165234-Windows.zip) |
+| 28.30-CL-31511038 | 22nd February 2024 | UE5.5 | [Download](https://d615ebd8b668.ngrok-free.app/28.30-CL-31511038.7z) |
 
 # Season 29
 | Build | Date | Engine Version | Download links |
 | --- | --- | -- | --- |
-| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | [Download]() |
-| 29.01-CL-32291970 | 19th March 2024 | UE5.5 | [Download]() |
-| 29.10-CL-32391220 | 26th March 2024 | UE5.5 | [Download]() |
-| 29.10-CL-32567225 | 27th March 2024 | UE5.5 | [Download]() |
-| 29.20-CL-32716692 | 9th April 2024 | UE5.5 | [Download]() |
-| 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | [Download]() |
-| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | [Download]() |
+| 29.00-CL-32116959 | 8th March 2024 | UE5.5 | [Download](https://d615ebd8b668.ngrok-free.app/29.00-CL-32116959.7z) |
+| 29.01-CL-32291970 | 19th March 2024 | UE5.5 | isnt saved yet |
+| 29.10-CL-32391220 | 26th March 2024 | UE5.5 | isnt saved yet |
+| 29.10-CL-32567225 | 27th March 2024 | UE5.5 | isnt saved yet |
+| 29.20-CL-32716692 | 9th April 2024 | UE5.5 | isnt saved yet |
+| 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | isnt saved yet |
+| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | isnt saved yet |
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | [Download]() |
-| 30.10-CL-34261954 | 13th June 2024 | UE5.5 | [Download]() |
+| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | isnt saved yet |
+| 30.10-CL-34261954 | 13th June 2024 | UE5.5 | isnt saved yet |
 
 
 ### EVENT BUILDS
@@ -403,3 +406,8 @@ v27.11 - 28 GB | The Big Bang | Play using Carbon
 v28.01 - 37,1 GB  | New Years Event (2024) ┃ Play using Carbon
 
 v29.40 - 53,2 GB  | CH5S4 Lead-Up (Sandstorm Event) ┃ Play using Carbon
+
+
+## Credits
+[ByZNexus] - Helping me download most of the builds big thx!
+gussysussy69420(on discord) - Helping me pay for the server etc
