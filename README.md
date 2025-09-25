@@ -227,7 +227,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Season 19
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |		
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
-| 19.00-CL-18049531 | 5th December 2021 | UE5.0 | isnt saved yet |
+| 19.00-CL-18049531 | 5th December 2021 | UE5.0 | [Download](https://d615ebd8b668.ngrok-free.app/19.00.zip) |
 | 19.01-CL-18380290	                | 14th December 2021         	 | UE5.0           	    |	[Download](https://d615ebd8b668.ngrok-free.app/19.01-CL-18489740.zip) |	
 | 19.10-CL-18675304	                | 18th January 2022        	 | UE5.0           	    |	 [Download](https://d615ebd8b668.ngrok-free.app/19.10.rar) |
 | 19.20-CL-18775446 | 1st February 2022 | UE5.0 | isnt saved yet
