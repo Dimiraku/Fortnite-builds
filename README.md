@@ -5,7 +5,7 @@ These were all the builds me and Byzn were able to find and save, we are aware t
 
 [Credits](#credits)
 
-[Events](#EVENTS)
+[Events](#EVENTS) <-- Click to view where to play Events and which are playable
 
 # If you use my links please make sure to credit me!
 Thanks to everyone who had been hosting the builds so we could get them.
@@ -335,7 +335,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | isnt saved yet |
+| 30.00-CL-33962396 | 24th May 2024  | UE5.5 | [Download](https://horizonfn.ngrok.dev/FN%20builds/30.00-CL-33962396.rar) |
 | 30.10-CL-34261954 | 13th June 2024 | UE5.5 | isnt saved yet |
 
 # Season 31
