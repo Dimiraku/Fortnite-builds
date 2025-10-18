@@ -5,7 +5,7 @@ These were all the builds me and Byzn were able to find and save, we are aware t
 
 [Credits](#credits)
 
-[Events](#EVENTS) <-- Click to view where to play Events and which are playable
+[Events](#EVENTS) <-- Click to view on which project to play Events and which are playable
 
 # If you use my links please make sure to credit me!
 Thanks to everyone who had been hosting the builds so we could get them.
