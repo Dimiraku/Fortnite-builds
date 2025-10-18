@@ -343,10 +343,10 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | ------------------ | -------------------- | ------------------- | --------------- |
 | 31.20-CL-36253989 | 17th September 2024  | UE5 | isnt saved yet |
 
-# Season 33
+# Season 32
 | Build              | Date                 | Engine Version      | Download links |
 | ------------------ | -------------------- | ------------------- | --------------- |
-| 32.11-CL-38371047 | 21st November 2024  | UE5 | isnt saved yet | 
+| 32.11-CL-38371047 | 21st November 2024  | UE5 | [Download](https://horizonfn.ngrok.dev/FN%20builds/32.11-CL-38371047.rar) | 
 
 ## EVENTS
 v3.6 - 16.2 GB | It's raining meteors | Play using Rift | Play using Reboot
