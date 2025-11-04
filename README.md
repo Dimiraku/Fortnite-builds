@@ -393,7 +393,7 @@ v12.41 - 83,3 GB | Travis Scott┃ Play ussing Rift | Play using Reboot | Play u
 
 v12.61 - 85,1 GB | Play ussing Rift | Play using Reboot | Play using Carbon
 
-v14.60 - 33,34 GB | The Devourer of Worlds┃ Play ussing Rift | Play using Reboot | Play using Carbon
+v14.60 - 33,34 GB | The Devourer of Worlds┃ Play using Rift | Play using Reboot | Play using Carbon
 
 v15.10 - 19,7 GB  | New Years Event (2021) ┃ Play using Carbon
 
