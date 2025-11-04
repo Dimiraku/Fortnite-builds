@@ -351,7 +351,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 ## EVENTS
 v3.6 - 16.2 GB | It's raining meteors | Play using Rift | Play using Reboot
 
-v4.5 - 23,0 GB | Blast Off┃ Play using Rift | Play using REboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
+v4.5 - 23,0 GB | Blast Off┃ Play using Rift | Play using Reboot (but keep in mind that 4.5 has a memory leak issue unless you use the one with CL-4166199)
 
 v5.30 - 26,2 GB | Cube Spawning┃ Play using REboot | Play using Carbon
 
