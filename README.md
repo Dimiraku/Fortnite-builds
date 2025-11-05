@@ -3,6 +3,8 @@
 # All links are provided by us.
 These were all the builds me and Byzn were able to find and save, we are aware that there are more but we couldnt get them, if you'd like to help us get more builds contact either one of us on discord: dimiraku, wallonia.
 
+Special thanks to [Repressoh](https://github.com/Repressoh) for dealing with my dumbass
+
 [Credits](#credits)
 
 [Events](#EVENTS) <-- Click to view on which project to play Events and which are playable
