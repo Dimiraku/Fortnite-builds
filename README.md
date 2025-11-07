@@ -243,8 +243,8 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 20.00-CL-19458861	                | 20th March 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/20.00.rar) |
 | 20.10-CL-19598943	                | 5th April 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/20.10.zip) |
 | 20.20-CL-19751212	                | 3rd May 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/20.20.zip) |
-| 20.30-CL-19950687	                | 17th May 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/21.30-CL-21155462.7z) |
-| 20.40-CL-20244966	                | 17th May 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/21.40-CL-21407327.7z) |
+| 20.30-CL-19950687	                | 17th May 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/20.30.zip) |
+| 20.40-CL-20244966	                | 17th May 2022        	 | UE5.1           	    |	 [Download](https://fn-builds.repressoh.it/20.40-CL-20244966.zip) |
 
 # Season 21
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
