@@ -1,5 +1,5 @@
 ## Fn-builds
-# Welcome to Dimiraku's and ByZN's repository for Fortnite Versions !
+# Welcome to Dimiraku's and Gussy's repository for Fortnite Versions !
 # All links are provided by us.
 These were all the builds me and Byzn were able to find and save, we are aware that there are more but we couldnt get them, if you'd like to help us get more builds contact either one of us on discord: dimiraku, wallonia.
 
