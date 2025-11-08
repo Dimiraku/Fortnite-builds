@@ -263,7 +263,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 22.00-CL-22149829 | 18th September 2022 | N/A | [Download](https://fn-builds.repressoh.it/22.00.7z) |
 | 22.10-CL-22429549 | 4th October 2022 | N/A | [Download](https://fn-builds.repressoh.it/22.10-CL-22429549.7z) |
 | 22.20-CL-22600409 | 18th October 2022 | N/A | isnt saved yet |
-| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	isnt saved yet |
+| 22.40-CL-23070899                | 15th November 2022         	 | N/A            |	[Download](https://fn-builds.repressoh.it/22.40.rar) |
 
 # Season 23
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |	
