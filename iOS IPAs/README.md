@@ -1,11 +1,11 @@
-# All IPAs are original and unmodifieded you'll need to redirect them yourselves.
+## **All IPAs are original and unmodifieded you'll need to redirect them yourselves.**
 
 [Credits](#credits)
 
 
 # Chapter 1
 
-#SEASON 3
+# SEASON 3
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
 | 3 | 3.3 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_3.3.0.ipa) |
@@ -15,7 +15,7 @@
 | 3 | 3.5 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_3.5.0.ipa) |
 | 3 | 3.6 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_3.6.0.ipa) |
 
-#SEASON 4
+# SEASON 4
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 4 | 4.0 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_4.0.0.ipa) |
@@ -29,7 +29,7 @@
 | 4 | 4.4.2 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_4.4.2.ipa) |
 | 4 | 4.5 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_4.5.0.ipa) |
 
-#SEASON 5
+# SEASON 5
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 5 | 5.0 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_5.0.0.ipa) |
@@ -46,7 +46,7 @@
 | 5 | 5.40.2 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_5.40.2.ipa) |
 | 5 | 5.41 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_5.41.0.ipa) |
 
-#SEASON 6
+# SEASON 6
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 6 | 6.00 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_6.00.0.ipa) |
@@ -65,7 +65,7 @@
 | 6 | 6.30 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_6.30.0.ipa) |
 | 6 | 6.31 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_6.31.0.ipa) |
 
-#SEASON 7
+# SEASON 7
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 7 | 7.00 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_7.00.0.ipa) |
@@ -84,7 +84,7 @@
 | 7 | 7.40.1 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_7.40.1.ipa) |
 | 7 | 7.40.2 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_7.40.2.ipa) |
 
-#SEASON 8
+# SEASON 8
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 8 | 8.00 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_8.00.0.ipa) |
@@ -105,7 +105,7 @@
 | 8 | 8.50 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_8.50.0.ipa) |
 | 8 | 8.51 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_8.51.0.ipa) |
 
-#SEASON 9
+# SEASON 9
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 9 | 9.00| [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_9.00.0.ipa) |
@@ -124,7 +124,7 @@
 | 9 | 9.41| [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_9.41.0.ipa) |
 | 9 | 9.41.1| [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_9.41.1.ipa) |
 
-#SEASON 10
+# SEASON 10
 | Season | Build | Download |
 | :---: | ----------- | ----------- |
 | 10 | 10.0. | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_10.00.0.ipa) |
@@ -142,7 +142,7 @@
 
 # Chapter 2
 
-#SEASON 11
+# SEASON 11
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
 | 11 | 11.00 | [Download](https://fn-builds.repressoh.it/IPAs/Fortnite_11.00.ipa) |
