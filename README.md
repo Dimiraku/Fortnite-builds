@@ -234,7 +234,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 18.10-CL-17661844              | 27th September 2021         	 | UE4.26.1            	    |	[Download](https://fn-builds.repressoh.it/18.10-CL-17661844.7z) |			
 | 18.20-CL-17792290 | 12th October 2021 | UE4.26.1 | [Download](https://fn-builds.repressoh.it/18.20-CL-17792290.7z) |
 | 18.20-CL-17745267 | 12th October 2021 | UE4.26.1 | [Download](https://fn-builds.repressoh.it/18.20-CL-17745267.zip) |
-| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	isnt saved yet |
+| 18.21-CL-17811397                | 19th October 2021         	 | UE4.26.1            	    |	[Download](https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z) |
 | 18.30-CL-17882303 | 26th October 2021 | UE4.26.1 | [Download](https://fn-builds.repressoh.it/18.30.7z) |
 | 18.40-CL-18163738	                | 16th November 2021        	 | UE4.26.1            	    |	[Download](https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip) |		
 
