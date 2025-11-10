@@ -302,7 +302,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
 | 25.00-CL-25909622 | 17th June 2023 | N/A | isnt saved yet |
 | 25.10-CL-26000959 | 20th June 2023 | N/A | isnt saved yet |
-| 25.11-CL-26171015 | 27th June 2023 | N/A | isnt saved yet |
+| 25.11-CL-26171015 | 27th June 2023 | N/A | [Download](https://fn-builds.repressoh.it/25.11.zip) |
 | 25.20-CL-26474516 | 26th July 2023 | N/A | isnt saved yet |
 | 25.20-CL-26629111 | 26th July 2023 | N/A | isnt saved yet |
 | 25.30-CL-26867995 | 8th August 2023 | N/A | isnt saved yet |
