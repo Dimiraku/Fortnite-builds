@@ -53,7 +53,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- | 
 | 1.11-CL-3807424         	| 14th December 2017		 | UE4.19-3807424	    |	[Download](https://fn-builds.repressoh.it/1.11.zip) |
 | 2.1.0-CL-3825894        	| 9th January 2018	  	 | UE4.19-3825894	    |	[Download](https://fn-builds.repressoh.it/2.1.0.zip) |	
-| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |		  isnt saved yet |	
+| 2.2.0-CL-3841827        	| 18th January 2018  	 | UE4.19-3841827	    |	[Download](https://fn-builds.repressoh.it/2.2.0-CL-3841827.zip) |	
 | 2.3.0-CL-3847564        	| 25th January 2018	  	 | UE4.19-3847564	    |		 [Download](https://fn-builds.repressoh.it/2.3.rar) |	
 | 2.4.0-CL-3858292        	| 1st February 2018	  	 | UE4.19-3858292	    |		 [Download](https://fn-builds.repressoh.it/2.4.0.zip) |	
 | 2.4.2-CL-3879410 | 8th February 2018 | UE4.19-3879408 |  [Download](https://fn-builds.repressoh.it/2.4.2.zip)
