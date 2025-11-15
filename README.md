@@ -77,7 +77,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 4.1-CL-4053532          	| 8th May 2018      	 | UE4.20-4053532	    |		[Download](https://fn-builds.repressoh.it/4.1.zip) |	
 | 4.2-CL-4072250          	| 16th May 2018	 	 | UE4.20-4072250 	    | 		 [Download](https://fn-builds.repressoh.it/4.2.zip)|		
 | 4.4-CL-4117433          	| 11th June 2018      	 | UE4.20-4117433  	    |           [Download](https://fn-builds.repressoh.it/4.4.rar) |		
-| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    |           isnt saved yet |	
+| 4.4.1-CL-4127312          	| 14th June 2018      	 | UE4.20-4117433  	    | [Download](https://fn-builds.repressoh.it/Fortnite+Release-4.4.1-CL-4127312.rar) |	
 | 4.5-CL-4159770          	| 27th June 2018     	 | UE4.20-4159770 	    |		 [Download](https://fn-builds.repressoh.it/4.5.zip) |	
 | 4.5-CL-4166199          	| 3rd July 2018     	 | UE4.20     	    |		 [Download](https://fn-builds.repressoh.it/4.5-4166199.rar) |
 
