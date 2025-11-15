@@ -343,7 +343,7 @@ Thanks to everyone who had been hosting the builds so we could get them.
 | 29.10-CL-32567225 | 27th March 2024 | UE5.5 | isnt saved yet |
 | 29.20-CL-32716692 | 9th April 2024 | UE5.5 | isnt saved yet |
 | 29.30-CL-32982357 | 23rd April 2024 | UE5.5 | isnt saved yet |
-| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | isnt saved yet |
+| 29.40-CL-33629566 | 1st May 2024 | UE5.5 | [Download](https://fn-builds.repressoh.it/29.40.rar) |
 
 # Season 30
 | Build              | Date                 | Engine Version      | Download links |
